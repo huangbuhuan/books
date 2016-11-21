@@ -1,7 +1,8 @@
 # books #
 
 **用来维护一个自己看过的书的书单、并做简评。**
-![](http://v3.qzone.cc/pic/201306/27/18/37/51cc15f3d9a41299.jpg!600x600.jpg)
+
+![](http://i.imgur.com/h0iTwnw.jpg)
 # 书单： #
 ----------
 
