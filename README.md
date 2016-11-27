@@ -2,7 +2,7 @@
 
 ----------
 
-![](http://offfgph0e.bkt.clouddn.com/book.jpg)
+![](http://oh7bpge2c.bkt.clouddn.com/book.jpg)
 
 
 # 书单： #
