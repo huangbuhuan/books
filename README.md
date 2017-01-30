@@ -9,9 +9,11 @@
 ----------
 
 ## 计算机系统与网络
--  《鸟哥的linux私房菜》
+-  《鸟哥的Linux私房菜》
 -  《图解TCP/IP》
 -  《图解HTTP》
+-  《Unix编程艺术》
+
 ## 数据结构与算法 ##
 - 《数据结构与算法分析-Java语言描述》
 
@@ -24,18 +26,23 @@
 - 《think in Java》
 - 《core Java volume i》
 - 《重构-改善既有代码的设计》
-- 《effective Java》
+- 《Effective Java》
 - 《Java并发编程实战》
+- 《深入理解JVM》
+- 《Java程序员修炼之道》
 
-## python开发 ##
-- 《python基础教程》
+## Python开发 ##
+- 《Python基础教程》
+
+## GO开发##
+
 ## SQL ##
 
 ## NOSQL ##
-- 《redis in action》
+- 《Redis In Action》
 
 ## 容器 ##
-- 《第一本docker书》
+- 《第一本Docker书》
 
 ## 测试 ##
 
