@@ -13,6 +13,7 @@
 -  《图解TCP/IP》
 -  《图解HTTP》
 -  《Unix编程艺术》
+-  《HTTP权威指南》
 
 ## 数据结构与算法 ##
 - 《数据结构与算法分析-Java语言描述》
@@ -20,23 +21,33 @@
 ## 通用技能 ##
 - 《代码整洁之道》
 - 《Head First 设计模式》
+- 《重构-改善既有代码的设计》
+- 《代码大全》
+- 《设计模式:可复用面向对象软件的基础》
 - 《高效程序员的45个习惯》
 
 ## Java开发 ##
-- 《think in Java》
-- 《core Java volume i》
-- 《重构-改善既有代码的设计》
+- 《Think In Java》
+- 《Core Java Volume i》
 - 《Effective Java》
 - 《Java并发编程实战》
-- 《深入理解JVM》
+- 《深入理解Java虚拟机》
+- 《Java虚拟机规范》
 - 《Java程序员修炼之道》
+- 《Maven实战》
+- 《Spring实战》
+- 《Java性能优化指南》
 
 ## Python开发 ##
 - 《Python基础教程》
 
 ## GO开发##
 
+- 《Go语言程序设计》
+- 《Go In Action》
+
 ## SQL ##
+- 《MySQL权威指南》
 
 ## NOSQL ##
 - 《Redis In Action》
@@ -54,6 +65,7 @@
 - 《如何阅读一本书》
 - 《如何高效学习》
 - 《番茄工作法》
+- 《软技能–代码之外的生存指南》
 
 ----------
 
