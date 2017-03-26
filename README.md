@@ -41,6 +41,7 @@
 - 《大型网站系统与Java中间件实践》
 - 《Java RESTful Web Service 实战》
 - 《SpringBoot实战》
+- 《大型网站技术架构-核心原理与案例分析》
 
 ## Python开发 ##
 - 《Python基础教程》
