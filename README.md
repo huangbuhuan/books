@@ -5,7 +5,7 @@
 ![](http://oh7bpge2c.bkt.clouddn.com/book.jpg)
 
 
-# 书单： #
+# 书单： 记录下看过的书籍 #
 ----------
 
 ## 计算机系统与网络
