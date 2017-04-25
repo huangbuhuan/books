@@ -43,9 +43,15 @@
 - 《Java RESTful Web Service 实战》
 - 《SpringBoot实战》
 - 《大型网站技术架构-核心原理与案例分析》
+- 《Java 8 In Action》
+- 《Java 8 函数式编程》
+- 《写给大忙人看的Java SE 8》
+- 《Spring Boot In Action》
+- 《大规模分布式存储系统》
 
 ## Python开发 ##
 - 《Python基础教程》
+- 《Head First Python》
 
 ## GO开发##
 
@@ -76,6 +82,7 @@
 - 《简单逻辑学》
 - 《富爸爸与穷爸爸》
 - 《软技能–代码之外的生存指南》
+- 《极客与团队》
 
 ----------
 
