@@ -14,6 +14,7 @@
 -  《图解HTTP》
 -  《Unix编程艺术》
 -  《HTTP权威指南》
+-  《SICP》
 
 ## 数据结构与算法 ##
 - 《数据结构与算法分析-Java语言描述》
@@ -48,6 +49,8 @@
 - 《写给大忙人看的Java SE 8》
 - 《Spring Boot In Action》
 - 《大规模分布式存储系统》
+- 《精通Spring MVC 4》
+- 《架构探险》
 
 ## Python开发 ##
 - 《Python基础教程》
