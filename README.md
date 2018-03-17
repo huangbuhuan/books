@@ -50,7 +50,6 @@
 - 《Java 8 函数式编程》
 - 《写给大忙人看的Java SE 8》
 - 《Spring Boot In Action》
-- 《大规模分布式存储系统》
 - 《精通Spring MVC 4》
 - 《架构探险》
 
@@ -64,7 +63,7 @@
 - 《Go In Action》
 
 ## SQL ##
-- 《MySQL权威指南》
+- 《高性能MySQL》
 
 ## NOSQL ##
 - 《Redis In Action》
@@ -72,7 +71,11 @@
 ## 容器 ##
 - 《第一本Docker书》
 
-## 测试 ##
+## 分布式 ##
+
+- 《DDIA》
+- 《大规模分布式存储系统》
+- 《分布式数据库架构及企业实践-基于Mycat中间件》
 
 ## 其他 ##
 - 《程序员的的呐喊》
